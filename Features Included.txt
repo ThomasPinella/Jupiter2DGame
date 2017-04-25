@@ -1,0 +1,22 @@
+Features:
+
+Rocket science
+Tilt
+Dense atmosphere
+Orthocam
+Afterburner
+Exhaust plasma
+Lucy in the sky
+Great balls of fire
+Platforms
+Flipper
+Black holes
+Pokeball
+
+Notes:
+
+If you get hit by enough fire balls, you will die, in which case you'll be alerted "Game Over. You should then refresh the page to play again.
+
+If you spawn inside a platform, just refresh the page again and spawn somewhere else.
+
+The blackholes can be rather powerful and will suck you in and then spit you out, so watch out!
